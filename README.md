@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Moustache</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🌱 I’m currently learning **react js , laravell**
+- 🌱 I’m currently learning **Next js , Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
