@@ -12,7 +12,7 @@
 - 🌱 I’m currently  improving my Front-End skills💫  
   
 
-I'm leaning about UI / UX design with Figma 🖥️  
+- I'm leaning about UI / UX design with Figma 🖥️  
   
 
 - 💬I looking forward to an internship    
