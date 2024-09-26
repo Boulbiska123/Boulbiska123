@@ -12,7 +12,7 @@
 - 🌱 I’m currently  improving my Front-End skills💫  
   
 
-- I'm leaning about UI / UX design with Figma 🖥️  
+I'm leaning about UI / UX design with Figma 🖥️  
   
 
 - 💬I looking forward to an internship    
@@ -75,7 +75,7 @@
 <a href="https://github.com/boulbiska123" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/bilal moustache" target="_blank">
+<a href="https://linkedin.com/in/bilal-moustache" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/Boulbiska123" target="_blank">
