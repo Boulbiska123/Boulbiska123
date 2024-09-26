@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://tenor.com/view/geto-suguru-jujutsu-kaisen-geto-walk-chibi-anime-gif-7603088358862088683" align="center" style="width: 100%" />
 </div>  
   
 
@@ -12,7 +12,7 @@
 - 🌱 I’m currently  improving my Front-End skills💫  
   
 
-I'm leaning about UI / UX design with Figma 🖥️  
+- I'm leaning about UI / UX design with Figma 🖥️  
   
 
 - 💬I looking forward to an internship    
